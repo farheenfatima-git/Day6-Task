@@ -200,7 +200,7 @@ Run all cells in order.
    * ![Model Performance Comparison](screenshots/performance_comparison.png)
 
 6. **Comparison Graph**
-   * !Comparison Graph](screenshots/comparison_graph.png)
+   * ![Comparison Graph](screenshots/comparison_graph.png)
 
 # Learning Outcomes
 Through this project, I learned how to:
